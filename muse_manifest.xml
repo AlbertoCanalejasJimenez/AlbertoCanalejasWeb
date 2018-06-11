@@ -1,0 +1,56 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="albertocanalejas.es" resolutions="1x" timestamp="1528736639476">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="365197773" ref="galeria:sobre-mi:demo-reel:contacto:index"/>
+    <file name="galeria.css" crc="4150300683" ref="galeria"/>
+    <file name="sobre-mi.css" crc="202527879" ref="sobre-mi"/>
+    <file name="demo-reel.css" crc="236125277" ref="demo-reel"/>
+    <file name="contacto.css" crc="397671125" ref="contacto"/>
+    <file name="index.css" crc="5677785" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="jimpistola.tif" crc="4133849761" seo="true" mt="1528654308000"/>
+    <file name="vuelo1.tif" crc="258443704" seo="true" mt="1528557026000"/>
+    <file name="vuelo9.tif" crc="353563330" seo="true" mt="1528557027000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:demo-reel:galeria:sobre-mi:contacto"/>
+    <file name="museutils.js" crc="163421577" ref="index:demo-reel:galeria:sobre-mi:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:demo-reel:galeria:sobre-mi:contacto"/>
+    <file name="museconfig.js" crc="36584860" ref="index:demo-reel:galeria:sobre-mi:contacto"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:demo-reel:galeria:sobre-mi:contacto"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:demo-reel:galeria:sobre-mi:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:demo-reel:galeria:sobre-mi:contacto"/>
+    <file name="require.js" crc="244322403" ref="index:demo-reel:galeria:sobre-mi:contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="ac92d2276f5ec9b14dd101701a0ab90d-crop-u182.jpg" crc="129631439" ref="index:demo-reel:galeria:sobre-mi:contacto"/>
+    <file name="u2028-4.png" crc="4209699811" ref="index"/>
+    <file name="u2032-4.png" crc="488588467" ref="index"/>
+    <file name="u2036-7.png" crc="4129355385" ref="index"/>
+    <file name="u2131-4.png" crc="3771010931" ref="demo-reel"/>
+    <file name="u2142-11.png" crc="474902640" ref="demo-reel"/>
+    <file name="u2413-4.png" crc="3987303120" ref="galeria"/>
+    <file name="u2264-4.png" crc="49573301" ref="galeria"/>
+    <file name="avioncete.jpg" crc="4276262984" seo="true" ref="galeria"/>
+    <file name="albertocanalejas_casco.jpg" crc="110157283" seo="true" ref="galeria"/>
+    <file name="u2297-4.png" crc="4151508211" ref="galeria"/>
+    <file name="u2303-4.png" crc="4128200398" ref="galeria"/>
+    <file name="u2242-4.png" crc="4158018247" ref="sobre-mi"/>
+    <file name="u2246-6.png" crc="3914150306" ref="sobre-mi"/>
+    <file name="u2254-6.png" crc="519013840" ref="sobre-mi"/>
+    <file name="u2258-6.png" crc="348515762" ref="sobre-mi"/>
+    <file name="u2261-6.png" crc="4238329235" ref="sobre-mi"/>
+    <file name="img-20170728-wa0006.jpg" crc="297545090" seo="true" ref="sobre-mi"/>
+    <file name="u2399-4.png" crc="4288507211" ref="contacto"/>
+    <file name="u2402-6.png" crc="334495171" ref="contacto"/>
+    <file name="u2405-9.png" crc="47974637" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="4151555807" seo="true" mt="1528736191876" redirect="true"/>
+  <file name="demo-reel.html" crc="3902063255" seo="true" mt="1528735323494" redirect="true"/>
+  <file name="galeria.html" crc="75867178" seo="true" mt="1528735814099" redirect="true"/>
+  <file name="sobre-mi.html" crc="238803701" seo="true" mt="1528735323494" redirect="true"/>
+  <file name="contacto.html" crc="64749152" seo="true" mt="1528735323494" redirect="true"/>
+</manifest>
